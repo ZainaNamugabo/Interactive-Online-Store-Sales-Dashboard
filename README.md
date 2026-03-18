@@ -10,10 +10,15 @@ To make it more user-friendly, I included filters for category, price range, and
 ## Key Features:
 
 Dynamic KPI cards (Revenue, Orders, Discounts, Reviews)
+
 Revenue breakdown by category and sub-category
+
 Sales performance of top products
+
 Pricing analysis (actual vs discounted trends)
+
 Category-based rating insights
+
 Interactive filters for deeper exploration
 
 This project reflects my approach to data analysis: not just presenting numbers, but telling a clear story that helps businesses make smarter decisions.
